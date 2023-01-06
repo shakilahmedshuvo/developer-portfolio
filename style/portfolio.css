@@ -17,6 +17,17 @@
     border-radius: 5px;
     background-color: #FD6E0A;
 }
+.btn-primary-two{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 46px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #000000;
+    ;
+}
 
 .header {
     background: #fff8f3;
