@@ -79,11 +79,12 @@ main {
     max-width: 1140px;
     margin: 0 auto;
 }
+section{margin-top: 130px;}
 
 /* about section styles */
 .about {
     text-align: center;
-    margin-top: 130px;
+    /* margin-top: 130px; */
     background-color: #fff8f3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -94,7 +95,7 @@ main {
     text-align: center;
     font-weight: 700;
     font-size: 35px;
-    margin-bottom: 170px;
+    margin-bottom: 50px;
 
 }
 
@@ -121,10 +122,10 @@ main {
     color: #474747;
 }
 
-/* what i do styles */
+/* what i do style */
 .what-i-do {
     margin-top: 130px;
-    /* display: flex; */
+    
 }
 
 .skills-container {
@@ -153,3 +154,4 @@ main {
 
     color: #757575;
 }
+/* resume style */
