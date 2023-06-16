@@ -1,1 +1,1 @@
-* Live LinkL: https://shakilahmedshuvo.github.io/developer-portfolio/
+* Live Link: https://shakilahmedshuvo.github.io/developer-portfolio/
